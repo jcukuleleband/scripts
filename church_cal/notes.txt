@@ -1,0 +1,7 @@
+Project: Import to Google Calendar
+Instructions: https://developers.google.com/calendar/quickstart/python
+
+2018-08-26
+1. Installed python3 w/ pip
+2. Downloaded credentials.json from Google and enabled My Project via Google.  I can somehow manage my credentials.  Not sure how at this point.
+3. Saved files at home directory.  My intent is to move project to Git.  I'll keep credentials local.
