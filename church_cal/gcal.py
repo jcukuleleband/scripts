@@ -17,7 +17,6 @@ def main():
     num_of_args = len(sys.argv)-1
     if num_of_args == 2:
         cred_file = sys.argv[1]
-        token_file = sys.argv[2]
         print ("credential file: " + cred_file)
         print ("token file: " + token_file)
     else:
